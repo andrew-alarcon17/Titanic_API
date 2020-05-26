@@ -11,6 +11,9 @@ In the jupyter notebook file, you can explicitly see the steps taken for data cl
 ## Machine Learning Algorithms Used
 
 Decision Tree Classifier
+
 Random Forest Classifier
+
 Support Vector Machine
+
 Gradient Boosting Classifier
